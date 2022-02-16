@@ -1,0 +1,51 @@
+body {
+    font: normal 20pt Arial;
+    background: red;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+}
+
+section {
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+
+section div {
+    text-align: center;
+    padding: 8px;
+}
+
+section div p {
+    position: relative;
+    text-align: center;
+    margin-top: 0;
+}
+
+section div p input[type=number] {
+    position: relative;
+    top: -3px;
+}
+
+section div p input[type=number]::-webkit-inner-spin-button {
+    appearance: none;
+}
+
+section div p input[type=button] {
+    background: green;
+    border-radius: 8px;
+    font-size: 16px;
+    padding: 6px;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}

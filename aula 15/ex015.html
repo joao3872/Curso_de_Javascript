@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+        let num = [5, 8, 4]
+        num[3] = 6
+        num.push(7)
+        num.length
+        num.sort()
+        console.log(num);
+
+        let pos = num.indexOf(8)
+        if (pos == -1) {
+            console.log('O valor não foi encontrado.');
+        } else {
+            console.log(`O valor está na posição ${pos}`);
+        }
+
+        let valores = [8, 1, 7, 4, 2, 9]
+        console.log(valores);
+
+        for (let pos = 0; pos < valores.length; pos++) {
+            console.log(`A posição ${pos} tem o valor ${valores[pos]}`);
+        }
+
+        for (let pos in valores) {
+            console.log(`A posição ${pos} tem o valor ${valores[pos]}`);
+        }
+    </script>
+
+</body>
+</html>
