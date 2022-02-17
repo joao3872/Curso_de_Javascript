@@ -11,7 +11,7 @@
 
 * #### Exercício da Aula 12
 
-<img src="gifs/dia.png" />
+<img src="gifs/dia.PNG" width="500px" />
 
 * #### Exercício da Aula 12
 
