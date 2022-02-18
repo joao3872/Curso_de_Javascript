@@ -25,10 +25,16 @@
 
 <img src="gifs/gif2.gif" />
 
+- Exercício, no qual, ajuda a entender o funcionamento básico da estrutura de repetição For. E possui o uso de Emoji.
+
 * #### Exercício da Aula 14
 
 <img src="gifs/gif3.gif" />
 
+- Exercício que gera uma tabuada. Toda vez que troca o número, a tabuada anterior é apagada e gera a nova tabuada.
+
 * #### Exercício da Aula 16
 
 <img src="gifs/gif4.gif" />
+
+- Este exercício, permite que você adicione vários números de 1 a 100, qualquer outro número não é aceito. A cada número adicionado no select, o número presente no input apaga. E por fim, são exibidas algumas operações.
