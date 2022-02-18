@@ -13,6 +13,8 @@
 
 <img src="gifs/dia.PNG" width="500px" />
 
+- Este exercício, tem mudanças de cor de background e mudanças de imagens. São três imagens e 3 background diferentes. Essas mudanças acontecem, a cada 8 horas.
+
 * #### Exercício da Aula 12
 
 <img src="gifs/gif1.gif" />
