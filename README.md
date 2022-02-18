@@ -19,6 +19,8 @@
 
 <img src="gifs/gif1.gif" />
 
+- É um exercício, que verifica o ano de nascimento do usuário e retorna uma imagem de acordo com a idade da pessoa, a idade e o sexo.
+
 * #### Exercício da Aula 14
 
 <img src="gifs/gif2.gif" />
